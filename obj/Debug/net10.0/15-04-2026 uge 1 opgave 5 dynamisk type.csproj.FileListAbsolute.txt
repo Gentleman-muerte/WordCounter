@@ -1,0 +1,15 @@
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\bin\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.exe
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\bin\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.deps.json
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\bin\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.runtimeconfig.json
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\bin\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.dll
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\bin\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.pdb
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.AssemblyInfoInputs.cache
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.AssemblyInfo.cs
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.sourcelink.json
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.dll
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\refint\15-04-2026 uge 1 opgave 5 dynamisk type.dll
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.pdb
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\15-04-2026 uge 1 opgave 5 dynamisk type.genruntimeconfig.cache
+C:\Users\Mathias\source\repos\15-04-2026 uge 1 opgave 5 dynamisk type\15-04-2026 uge 1 opgave 5 dynamisk type\obj\Debug\net10.0\ref\15-04-2026 uge 1 opgave 5 dynamisk type.dll

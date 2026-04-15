@@ -4,23 +4,35 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(ProcessValue(25));
-        Console.WriteLine(ProcessValue("Hej verden"));
-        Console.WriteLine(ProcessValue(3.14));
+        Console.Write("Enter a value: ");
+        string input = Console.ReadLine();
+
+        dynamic result = ProcessValue(input);
+
+        Console.WriteLine(result);
     }
 
     public static dynamic ProcessValue(dynamic input)
     {
-        if (input is int)
+        
+        if (input == null || string.IsNullOrWhiteSpace(input.ToString()))
         {
-            return 100 + input;
+            return false; 
         }
 
+        
+        if (int.TryParse(input.ToString(), out int number))
+        {
+            return 100 + number;
+        }
+
+        
         if (input is string)
         {
             return "Følgende tekst modtaget: " + input;
         }
 
+        
         return false;
     }
 }

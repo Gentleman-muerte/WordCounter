@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15-04-2026 uge 1 opgave 5 dynamisk type")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cdf3469b5c081eb97a44378b7f1e7fd755c33c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("15-04-2026 uge 1 opgave 5 dynamisk type")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15-04-2026 uge 1 opgave 5 dynamisk type")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
