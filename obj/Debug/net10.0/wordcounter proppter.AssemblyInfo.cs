@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wordcounter proppter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+609717f44bfee14bfea6e618a3136ae6047671e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eaaf03bf655c562dd9ba0df3171f584ef3ce91d")]
 [assembly: System.Reflection.AssemblyProductAttribute("wordcounter proppter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wordcounter proppter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
