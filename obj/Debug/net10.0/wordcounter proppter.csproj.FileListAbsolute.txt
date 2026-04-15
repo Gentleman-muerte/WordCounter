@@ -12,3 +12,4 @@ C:\Users\Mathias\source\repos\wordcounter proppter\wordcounter proppter\obj\Debu
 C:\Users\Mathias\source\repos\wordcounter proppter\wordcounter proppter\obj\Debug\net10.0\wordcounter proppter.pdb
 C:\Users\Mathias\source\repos\wordcounter proppter\wordcounter proppter\obj\Debug\net10.0\wordcounter proppter.genruntimeconfig.cache
 C:\Users\Mathias\source\repos\wordcounter proppter\wordcounter proppter\obj\Debug\net10.0\ref\wordcounter proppter.dll
+C:\Users\Mathias\source\repos\wordcounter proppter\wordcounter proppter\obj\Debug\net10.0\wordcounter proppter.sourcelink.json

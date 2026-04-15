@@ -1,29 +1,35 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace wordcounter_proppter
 {
     internal class WordCounter
     {
-        public static int CountWord(string word, string text)
+        public static Result<int> CountWord(string word, string text)
         {
+            if (string.IsNullOrWhiteSpace(word))
+            {
+                return Result<int>.Failure("Search word cannot be empty.");
+            }
+
+            if (string.IsNullOrWhiteSpace(text))
+            {
+                return Result<int>.Failure("Text cannot be empty.");
+            }
+
             int count = 0;
 
             word = word.ToLower();
-            text = text.ToLower();
+            string[] words = text.ToLower().Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-            int index = 0;
-
-            while ((index = text.IndexOf(word, index)) != -1)
+            foreach (string w in words)
             {
-                count++;
-                index++;
+                if (w == word)
+                {
+                    count++;
+                }
             }
 
-            return count;
+            return Result<int>.Success(count);
         }
     }
 }
-
-

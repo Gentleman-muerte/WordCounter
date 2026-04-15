@@ -11,9 +11,14 @@ class Program
         Console.Write("Enter text: ");
         string text = Console.ReadLine();
 
-        // Call method from the OTHER class
-        int result = WordCounter.CountWord(word, text);
+        var result = WordCounter.CountWord(word, text);
 
-        Console.WriteLine("The word '" + word + "' appears " + result + " times.");
+        if (!result.IsSuccess)
+        {
+            Console.WriteLine("Error: " + result.Error);
+            return;
+        }
+
+        Console.WriteLine($"The word appears {result.Value} times.");
     }
 }
