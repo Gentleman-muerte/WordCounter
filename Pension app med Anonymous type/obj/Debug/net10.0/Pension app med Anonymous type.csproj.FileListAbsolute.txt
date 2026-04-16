@@ -1,0 +1,14 @@
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\bin\Debug\net10.0\Pension app med Anonymous type.exe
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\bin\Debug\net10.0\Pension app med Anonymous type.deps.json
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\bin\Debug\net10.0\Pension app med Anonymous type.runtimeconfig.json
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\bin\Debug\net10.0\Pension app med Anonymous type.dll
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\bin\Debug\net10.0\Pension app med Anonymous type.pdb
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.AssemblyInfoInputs.cache
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.AssemblyInfo.cs
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.dll
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\refint\Pension app med Anonymous type.dll
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.pdb
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\Pension app med Anonymous type.genruntimeconfig.cache
+C:\Users\Mathias\source\repos\Pension app med Anonymous type\Pension app med Anonymous type\obj\Debug\net10.0\ref\Pension app med Anonymous type.dll
