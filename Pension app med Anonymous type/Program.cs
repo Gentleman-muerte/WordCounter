@@ -10,31 +10,15 @@ if (!DateOnly.TryParse(input, out DateOnly fødselsdato))
     return;
 }
 
-
 const int pensionsAlder = 67;
 
-
-DateOnly iDag = DateOnly.FromDateTime(DateTime.Now);
-
-
-int alder = iDag.Year - fødselsdato.Year;
-
-if (iDag < fødselsdato.AddYears(alder))
-{
-    alder--;
-}
-
-
-int årTilPension = pensionsAlder - alder;
-
-
-var result = new
+var calculator = new PensionCalculator();
+var result = calculator.Calculate(fødselsdato, pensionsAlder, (alder, årTilPension, visAdvarsel) => new
 {
     Alder = alder,
     ÅrTilPension = årTilPension,
-    VisAdvarsel = årTilPension < 5
-};
-
+    VisAdvarsel = visAdvarsel
+});
 
 Console.WriteLine($"Din alder er: {result.Alder}");
 Console.WriteLine($"År til pension: {result.ÅrTilPension}");

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pension app med Anonymous type")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a395a1c6d6b53511447b33c6a74e3a6410814472")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pension app med Anonymous type")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pension app med Anonymous type")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
